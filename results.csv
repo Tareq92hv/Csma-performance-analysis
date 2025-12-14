@@ -1,0 +1,4 @@
+Nodes,Throughput_Mbps,AverageDelay_ms,PacketLoss_percent
+5,0.119694,5.33616,0
+10,0.269312,11.3948,0
+20,0.568548,23.6301,0
